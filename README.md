@@ -27,6 +27,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Developer Experience
 - [Shopwware 6 Example Plugin](https://github.com/shopware/swag-docs-bundle-example)
+- [Official Shopware 6 Migration Assistant](https://github.com/shopware/SwagMigrationAssistant)
+- [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
 
