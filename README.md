@@ -1,6 +1,8 @@
 # Awesome Shopware 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/elgentos/awesome-shopware-6)
 Awesome Shopware 6 plugins, resources, themes, etc
 
+![image](https://user-images.githubusercontent.com/431360/82080862-a057b080-96e5-11ea-936f-3ef15ba613e4.png)
+
 ## Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
 - [MultiSafePay Shopware 6 Plugin](https://github.com/MultiSafepay/shopware6)
