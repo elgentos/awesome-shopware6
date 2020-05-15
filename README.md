@@ -1,7 +1,13 @@
-# Awesome Shopware 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/elgentos/awesome-shopware-6)
+# Awesome Shopware 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/elgentos/awesome-shopware6)
 Awesome Shopware 6 plugins, resources, themes, etc
 
-![image](https://user-images.githubusercontent.com/431360/82080862-a057b080-96e5-11ea-936f-3ef15ba613e4.png)
+<h1 align="center">
+	<br>
+	<img width="800" src="https://user-images.githubusercontent.com/431360/82080862-a057b080-96e5-11ea-936f-3ef15ba613e4.png?raw=true" alt="shopware6 logo">
+	<br>
+	<br>
+	<br>
+</h1>
 
 ## Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
