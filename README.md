@@ -43,3 +43,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
 - [How to override a Component in Shopware 6](https://webkul.com/blog/how-to-override-a-component-in-shopware-6/)
 - [Overriding Shopware 6 Storefront Page](https://webkul.com/blog/overriding-shopware-6-storefront-page/)
+- [How To Create A Custom Theme In Shopware 6](https://www.bay20.com/how-to-create-a-custom-theme-in-shopware6/)
+- [Shopware 6: Theme-Entwicklung (German)](https://www.digitalmanufaktur.com/blog/shopware-6-theme-entwicklung)
+- [Shopware 6: Theme Plugins (German)](https://www.the-cake-shop.de/shopware-6-theme-plugins/)
