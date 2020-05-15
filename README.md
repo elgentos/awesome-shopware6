@@ -32,6 +32,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
 
+### PhpStorm plugins for working with Shopware 6
+- [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
+- [Twig Plugin](https://plugins.jetbrains.com/plugin/7303-twig)
+- [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
+- [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
+- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
+- [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
+- [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
+
 ### Speed Optimizations
 - [Frosh WebP Images for Shopware 6](https://github.com/FriendsOfShopware/FroshPlatformWebP)
 
