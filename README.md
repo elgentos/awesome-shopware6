@@ -20,6 +20,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Frontend
 - [Social Media Icons](https://github.com/sebastianvolk/shopware-social-media-icons)
+- [CMS Elements](https://github.com/SilvioPahrig/SndCmsExtensions)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
