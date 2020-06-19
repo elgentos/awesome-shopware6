@@ -39,7 +39,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
-- [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
