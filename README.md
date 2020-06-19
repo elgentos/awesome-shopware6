@@ -11,16 +11,23 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ## Plugins
 
+- [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
+
 ### Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
 - [MultiSafePay Shopware 6 Plugin](https://github.com/MultiSafepay/shopware6)
 - [Pay.nl](https://github.com/paynl/shopware6-plugin)
 - [PayOne Shopware 6 Plugin](https://github.com/PAYONE-GmbH/shopware-6)
 - [Burst](https://github.com/felixbrucker/shopware-burst-payment)
+- [Adyen](https://github.com/Adyen/adyen-shopware6)
 
 ### Frontend
 - [Social Media Icons](https://github.com/sebastianvolk/shopware-social-media-icons)
 - [CMS Elements](https://github.com/SilvioPahrig/SndCmsExtensions)
+- [Shopware Maps](https://github.com/Shape-and-Shift/shopware-maps)
+- [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
+- [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
+- [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
@@ -32,6 +39,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
+- [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
