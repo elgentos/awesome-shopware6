@@ -28,6 +28,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
 - [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
 - [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
+- [Product Compare](https://github.com/vienthuong/SimpleProductCompare)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
