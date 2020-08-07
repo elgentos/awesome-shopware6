@@ -28,7 +28,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
 - [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
 - [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
-- [Product Compare](https://github.com/vienthuong/SimpleProductCompare)
+- [Product Compare](https://github.com/FriendsOfShopware/FroshProductCompare)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
@@ -40,6 +40,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
+- [Theme Preview](https://github.com/hungmac-sw/MacThemePreview)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
