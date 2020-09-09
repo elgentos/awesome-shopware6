@@ -29,6 +29,11 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
 - [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
 - [Product Compare](https://github.com/vienthuong/SimpleProductCompare)
+- [Category Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
+- [SEO Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
+
+### Administration 
+- [Advanced Order Filter](https://github.com/leduc92/sbuorderadvancedfilter)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
