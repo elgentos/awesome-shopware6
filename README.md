@@ -12,6 +12,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ## Plugins
 
 - [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
+- [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
 
 ### Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
