@@ -9,10 +9,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 	<br>
 </h1>
 
-## Plugins
-
-- [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
-- [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
+## Plugins 
 
 ### Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
@@ -20,16 +17,26 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Pay.nl](https://github.com/paynl/shopware6-plugin)
 - [PayOne Shopware 6 Plugin](https://github.com/PAYONE-GmbH/shopware-6)
 - [Burst](https://github.com/felixbrucker/shopware-burst-payment)
+- [Wallee](https://github.com/wallee-payment/shopware-6)
 - [Adyen](https://github.com/Adyen/adyen-shopware6)
 
 ### Frontend
+- [Elgentos - Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
+- [Elgentos - Seo Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
 - [Social Media Icons](https://github.com/sebastianvolk/shopware-social-media-icons)
 - [CMS Elements](https://github.com/SilvioPahrig/SndCmsExtensions)
 - [Shopware Maps](https://github.com/Shape-and-Shift/shopware-maps)
 - [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
+- [Lazysizes Lazyload images](https://github.com/stefanpoensgen/SptecLazyload)
 - [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
 - [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
 - [Product Compare](https://github.com/FriendsOfShopware/FroshProductCompare)
+- [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
+- [Recently Viewed Product Slider](https://github.com/vienthuong/RecentlyViewedProduct)
+
+### Administration
+- [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
+- [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
@@ -58,6 +65,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
 - [Shopware 6 Docker](https://github.com/nulllogic/shopware6-docker)
+
+### Other
+- [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
 
 ## Resources
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
