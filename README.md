@@ -33,11 +33,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Product Compare](https://github.com/FriendsOfShopware/FroshProductCompare)
 - [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
 - [Recently Viewed Product Slider](https://github.com/vienthuong/RecentlyViewedProduct)
+- [Dropdown Menu](https://github.com/sschreier/sschreierDropdownmenu)
+- [Topbar or Footer Notifications](https://github.com/sschreier/sschreierTopbarnotifications)
+- [Sticky Menu](https://github.com/sschreier/sschreierStickymenu)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
 - [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
