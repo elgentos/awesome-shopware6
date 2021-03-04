@@ -74,6 +74,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Other
 - [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
+- [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
 
 ## Resources
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
