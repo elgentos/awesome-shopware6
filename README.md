@@ -36,12 +36,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Dropdown Menu](https://github.com/sschreier/sschreierDropdownmenu)
 - [Topbar or Footer Notifications](https://github.com/sschreier/sschreierTopbarnotifications)
 - [Sticky Menu](https://github.com/sschreier/sschreierStickymenu)
+- [Advanced Banners / Digital Publishing](https://github.com/runelaenen/shopware6-advanced-banners)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
 - [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
 - [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
+- [Category links](https://github.com/runelaenen/sw6-category-links)
+- [Redirects](https://github.com/runelaenen/sw6-redirects)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
@@ -67,6 +70,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Speed Optimizations
 - [Frosh WebP Images for Shopware 6](https://github.com/FriendsOfShopware/FroshPlatformWebP)
+- [Image optimizer](https://github.com/runelaenen/sw6-media-optimizer)
 
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
