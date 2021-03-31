@@ -9,9 +9,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 	<br>
 </h1>
 
-## Plugins
-
-- [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
+## Plugins 
 
 ### Payment Service Providers
 - [Mollie](https://github.com/mollie/Shopware6)
@@ -19,25 +17,39 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Pay.nl](https://github.com/paynl/shopware6-plugin)
 - [PayOne Shopware 6 Plugin](https://github.com/PAYONE-GmbH/shopware-6)
 - [Burst](https://github.com/felixbrucker/shopware-burst-payment)
+- [Wallee](https://github.com/wallee-payment/shopware-6)
 - [Adyen](https://github.com/Adyen/adyen-shopware6)
 
 ### Frontend
+- [Elgentos - Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
+- [Elgentos - Seo Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
 - [Social Media Icons](https://github.com/sebastianvolk/shopware-social-media-icons)
 - [CMS Elements](https://github.com/SilvioPahrig/SndCmsExtensions)
 - [Shopware Maps](https://github.com/Shape-and-Shift/shopware-maps)
 - [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
+- [Lazysizes Lazyload images](https://github.com/stefanpoensgen/SptecLazyload)
 - [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags)
 - [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider)
-- [Product Compare](https://github.com/vienthuong/SimpleProductCompare)
-- [Category Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
-- [SEO Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
+- [Product Compare](https://github.com/FriendsOfShopware/FroshProductCompare)
+- [Deutsche Post Autocomplete](https://github.com/netresearch/deutschepost-module-autocomplete-sw6)
+- [Recently Viewed Product Slider](https://github.com/vienthuong/RecentlyViewedProduct)
+- [Dropdown Menu](https://github.com/sschreier/sschreierDropdownmenu)
+- [Topbar or Footer Notifications](https://github.com/sschreier/sschreierTopbarnotifications)
+- [Sticky Menu](https://github.com/sschreier/sschreierStickymenu)
+- [Advanced Banners / Digital Publishing](https://github.com/runelaenen/shopware6-advanced-banners)
 
-### Administration 
-- [Advanced Order Filter](https://github.com/leduc92/sbuorderadvancedfilter)
+### Administration
+- [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
+- [Impersonation Admin User](https://github.com/vienthuong/impersonation)
+- [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
+- [Category links](https://github.com/runelaenen/sw6-category-links)
+- [Redirects](https://github.com/runelaenen/sw6-redirects)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
 - [Frosh Platform Share Basket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
+- [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
 
 ### Developer Experience
 - [Shopware 6 Example Plugin](https://github.com/shopware/swag-docs-bundle-example)
@@ -45,6 +57,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
 - [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
+- [Theme Preview](https://github.com/hungmac-sw/MacThemePreview)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
@@ -57,10 +70,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Speed Optimizations
 - [Frosh WebP Images for Shopware 6](https://github.com/FriendsOfShopware/FroshPlatformWebP)
+- [Image optimizer](https://github.com/runelaenen/sw6-media-optimizer)
 
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
 - [Shopware 6 Docker](https://github.com/nulllogic/shopware6-docker)
+
+### Other
+- [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
+- [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
 
 ## Resources
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
