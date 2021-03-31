@@ -45,6 +45,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
 - [Category links](https://github.com/runelaenen/sw6-category-links)
 - [Redirects](https://github.com/runelaenen/sw6-redirects)
+- [Meta Details](https://github.com/DevertNet/DevertAutoMetaDetails)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
