@@ -24,6 +24,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Elgentos - Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
 - [Elgentos - Seo Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
 - [Social Media Icons](https://github.com/sebastianvolk/shopware-social-media-icons)
+- [Login required for categories](https://github.com/Shape-and-Shift/shopware-login-required)
 - [CMS Elements](https://github.com/SilvioPahrig/SndCmsExtensions)
 - [Shopware Maps](https://github.com/Shape-and-Shift/shopware-maps)
 - [Shopware Animate On Scroll](https://github.com/Shape-and-Shift/shopware-aos)
