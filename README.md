@@ -38,6 +38,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Topbar or Footer Notifications](https://github.com/sschreier/sschreierTopbarnotifications)
 - [Sticky Menu](https://github.com/sschreier/sschreierStickymenu)
 - [Advanced Banners / Digital Publishing](https://github.com/runelaenen/shopware6-advanced-banners)
+- [VatLayer VAT check](https://github.com/Memo-ict/vatlayer-sw6)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
