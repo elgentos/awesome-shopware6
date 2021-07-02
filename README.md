@@ -39,6 +39,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Sticky Menu](https://github.com/sschreier/sschreierStickymenu)
 - [Advanced Banners / Digital Publishing](https://github.com/runelaenen/shopware6-advanced-banners)
 - [VatLayer VAT check](https://github.com/Memo-ict/vatlayer-sw6)
+- [Tab for Product Detail Page](https://github.com/sschreier/SschreierTabProductDetailPage)
+- [Product Badges in Category and PDP](https://github.com/sschreier/SschreierBadgeNavigationProductDetailPage)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
@@ -48,6 +50,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Category links](https://github.com/runelaenen/sw6-category-links)
 - [Redirects](https://github.com/runelaenen/sw6-redirects)
 - [Auto Meta Details](https://github.com/DevertNet/DevertAutoMetaDetails)
+- [Total Quantity In Cart Rule](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
