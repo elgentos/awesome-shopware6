@@ -79,6 +79,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
 
 ### Speed Optimizations
+- [Frosh ThumbnailProcessor](https://github.com/FriendsOfShopware/FroshThumbnailProcessor)
 - [Frosh WebP Images for Shopware 6](https://github.com/FriendsOfShopware/FroshPlatformWebP)
 - [Image optimizer](https://github.com/runelaenen/sw6-media-optimizer)
 
