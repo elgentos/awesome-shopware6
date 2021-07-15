@@ -41,6 +41,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [VatLayer VAT check](https://github.com/Memo-ict/vatlayer-sw6)
 - [Tab for Product Detail Page](https://github.com/sschreier/SschreierTabProductDetailPage)
 - [Product Badges in Category and PDP](https://github.com/sschreier/SschreierBadgeNavigationProductDetailPage)
+- [Show discount line in cart summary](https://github.com/MelvinAchterhuis/MelvDiscountSummary)
+- [Show sold out information for variants](https://github.com/MelvinAchterhuis/MelvSoldOutVariants)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
