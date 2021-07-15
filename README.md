@@ -91,6 +91,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
 
 ## Resources
+- [You don't need a plugin to customize a Shopware 6 project](https://shyim.me/blog/you-dont-need-a-plugin-to-customize-shopware-6/)
+- [Optimization of Thumbnails in PHP](https://shyim.me/blog/thumbnails-and-php/)
+- [Why I Don't like Custom Fields](https://shyim.me/blog/custom-fields/)
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
 - [An introduction into Shopware 6 for Magento developers](https://www.shopware.com/en/news/an-introduction-into-shopware-6-for-magento-developers/)
 - [How to override a Component in Shopware 6](https://webkul.com/blog/how-to-override-a-component-in-shopware-6/)
