@@ -55,6 +55,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Auto Meta Details](https://github.com/DevertNet/DevertAutoMetaDetails)
 - [Total Quantity In Cart Rule](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
 - [Show company name and VAT ID in backend](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
+- [Zero Margin Default CMS Blocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
