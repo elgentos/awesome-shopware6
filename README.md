@@ -20,6 +20,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Wallee](https://github.com/wallee-payment/shopware-6)
 - [Adyen](https://github.com/Adyen/adyen-shopware6)
 
+### Theme
+- [digitalmanufaktur - shopware6-manu-theme](https://github.com/digitalmanufaktur/shopware6-manu-theme)
+- 
 ### Frontend
 - [Elgentos - Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
 - [Elgentos - Seo Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
