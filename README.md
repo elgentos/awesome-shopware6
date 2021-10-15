@@ -91,6 +91,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
 - [Shopware 6 Docker](https://github.com/nulllogic/shopware6-docker)
+- [Dockware](https://github.com/dockware/dockware)
 
 ### Other
 - [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
