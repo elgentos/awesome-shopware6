@@ -64,6 +64,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
 - [Frosh Platform Share Basket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [European VAT Reg.No. Validation Plugin](https://github.com/pietrzakadrian/PluginVatValidation)
 
 ### Developer Experience
 - [Shopware 6 Example Plugin](https://github.com/shopware/swag-docs-bundle-example)
