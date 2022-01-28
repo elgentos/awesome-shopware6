@@ -19,6 +19,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Burst](https://github.com/felixbrucker/shopware-burst-payment)
 - [Wallee](https://github.com/wallee-payment/shopware-6)
 - [Adyen](https://github.com/Adyen/adyen-shopware6)
+- [Tpay Integration Plugin by CREHLER](https://github.com/crehler/CrehlerTpay)
 
 ### Theme
 - [digitalmanufaktur - shopware6-manu-theme](https://github.com/digitalmanufaktur/shopware6-manu-theme)
