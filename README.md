@@ -47,7 +47,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Show discount line in cart summary](https://github.com/MelvinAchterhuis/MelvDiscountSummary)
 - [Show sold out information for variants](https://github.com/MelvinAchterhuis/MelvSoldOutVariants)
 - [Twitter Timeline integration](https://github.com/flagbit/shopware6-twitter)
-- [Editable meta robots by CREHLER](https://github.com/crehler/CrehlerMetaRobots) 🚀
+- [Editable meta robots by CREHLER](https://github.com/crehler/CrehlerMetaRobots)
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
@@ -98,8 +98,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Other
 - [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
 - [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
-- [BaseLinker Integration by CREHLER](https://github.com/crehler/CrehlerBaseLinker) 🚀
-- [Edrone CRM Integration by CREHLER](https://github.com/crehler/CrehlerEdroneCRM) 🚀
+- [BaseLinker Integration by CREHLER](https://github.com/crehler/CrehlerBaseLinker)
+- [Edrone CRM Integration by CREHLER](https://github.com/crehler/CrehlerEdroneCRM)
 
 ## Resources
 - [You don't need a plugin to customize a Shopware 6 project](https://shyim.me/blog/you-dont-need-a-plugin-to-customize-shopware-6/)
