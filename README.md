@@ -86,6 +86,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
 - [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 - [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
+- [Shopware 6 Toolbox](https://plugins.jetbrains.com/plugin/17632-shopware-6-toolbox)
 
 ### Speed Optimizations
 - [Frosh ThumbnailProcessor](https://github.com/FriendsOfShopware/FroshThumbnailProcessor)
