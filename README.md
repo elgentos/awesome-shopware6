@@ -89,8 +89,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Toolbox](https://plugins.jetbrains.com/plugin/17632-shopware-6-toolbox)
 
 ### Speed Optimizations
-- [Frosh ThumbnailProcessor](https://github.com/FriendsOfShopware/FroshThumbnailProcessor)
-- [Frosh WebP Images for Shopware 6](https://github.com/FriendsOfShopware/FroshPlatformWebP)
+- [Frosh ThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor)
 - [Image optimizer](https://github.com/runelaenen/sw6-media-optimizer)
 
 ### DevOps
