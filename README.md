@@ -77,6 +77,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
 - [Theme Preview](https://github.com/hungmac-sw/MacThemePreview)
 - [Yireo's Shopware 6 Extensions](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
+- [CMS Scaffolding](https://github.com/Shape-and-Shift/shopware-cms-generator) (Generate a CMS element or block scaffolding within seconds)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
