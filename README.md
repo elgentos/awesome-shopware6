@@ -56,7 +56,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
 - [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
-- [Category links](https://github.com/runelaenen/sw6-category-links)
 - [Redirects](https://github.com/runelaenen/sw6-redirects)
 - [Auto Meta Details](https://github.com/DevertNet/DevertAutoMetaDetails)
 - [Total Quantity In Cart Rule](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
