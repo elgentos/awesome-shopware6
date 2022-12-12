@@ -24,7 +24,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Theme
 - [digitalmanufaktur - shopware6-manu-theme](https://github.com/digitalmanufaktur/shopware6-manu-theme)
-- 
+- [flagbit/shopware6-tailwind-theme](https://github.com/flagbit/shopware6-tailwind-theme)
+
 ### Frontend
 - [Elgentos - Default Sort Order](https://github.com/elgentos/shopware-default-sort-order)
 - [Elgentos - Seo Canonical URL](https://github.com/elgentos/shopware-seo-canonical-url)
