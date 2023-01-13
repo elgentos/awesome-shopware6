@@ -99,6 +99,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Dockware](https://github.com/dockware/dockware)
 
 ### Other
+- [Shopware 6 Toolkit - Chrome extension](https://chrome.google.com/webstore/detail/meteor-shopware-6-toolkit/onmklnedjfgeaigmkjkldlgpeonpjpnc)
 - [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
 - [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
 - [BaseLinker Integration by CREHLER](https://github.com/crehler/CrehlerBaseLinker)
