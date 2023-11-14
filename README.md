@@ -54,6 +54,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
+- [Login as Customer >6.5](https://github.com/Gainto/JblLoginAsCustomer)
+- [Maintenance Log-In >6.5])https://github.com/Gainto/JblMaintenanceLogin)
 - [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
 - [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
