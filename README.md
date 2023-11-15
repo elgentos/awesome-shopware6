@@ -12,18 +12,17 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ## Plugins 
 
 ### Payment Service Providers
-- [Mollie](https://github.com/mollie/Shopware6)
-- [MultiSafePay Shopware 6 Plugin](https://github.com/MultiSafepay/shopware6)
-- [Pay.nl](https://github.com/paynl/shopware6-plugin)
-- [PayOne Shopware 6 Plugin](https://github.com/PAYONE-GmbH/shopware-6)
-- [Burst](https://github.com/felixbrucker/shopware-burst-payment)
-- [Wallee](https://github.com/wallee-payment/shopware-6)
-- [Adyen](https://github.com/Adyen/adyen-shopware6)
-- [Tpay Integration Plugin by CREHLER](https://github.com/crehler/CrehlerTpay)
-- [Buckaroo Payments](https://github.com/buckaroo-it/Shopware_6)
+- [Mollie >6.0](https://github.com/mollie/Shopware6)
+- [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6)
+- [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin)
+- [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6)
+- [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment)
+- [Wallee >6.5](https://github.com/wallee-payment/shopware-6)
+- [Adyen >6.3](https://github.com/Adyen/adyen-shopware6)
+- [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6)
 
 ### Theme
-- [digitalmanufaktur - shopware6-manu-theme](https://github.com/digitalmanufaktur/shopware6-manu-theme)
+- [digitalmanufaktur - shopware6-manu-theme >6.0](https://github.com/digitalmanufaktur/shopware6-manu-theme)
 - [flagbit/shopware6-tailwind-theme](https://github.com/flagbit/shopware6-tailwind-theme)
 
 ### Frontend
@@ -55,7 +54,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Administration
 - [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
 - [Login as Customer >6.5](https://github.com/Gainto/JblLoginAsCustomer)
-- [Maintenance Log-In >6.5])https://github.com/Gainto/JblMaintenanceLogin)
+- [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin)
 - [Impersonation Admin User](https://github.com/vienthuong/impersonation)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
 - [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
@@ -69,7 +68,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
 - [Frosh Platform Share Basket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
 - [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
-- [European VAT Reg.No. Validation Plugin](https://github.com/pietrzakadrian/PluginVatValidation)
 
 ### Developer Experience
 - [Shopware 6 Example Plugin](https://github.com/shopware/swag-docs-bundle-example)
