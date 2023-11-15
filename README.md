@@ -90,22 +90,21 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Toolbox](https://plugins.jetbrains.com/plugin/17632-shopware-6-toolbox)
 
 ### Speed Optimizations
-- [Frosh HTML Minify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify)
-- [Frosh ThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor)
-- [Image optimizer](https://github.com/runelaenen/sw6-media-optimizer)
+- [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify)
+- [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor)
+- [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer)
 
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
-- [Shopware 6 Docker](https://github.com/nulllogic/shopware6-docker)
-- [Dockware](https://github.com/dockware/dockware)
+- [Dockware >6.x](https://github.com/dockware/dockware)
 
 ### Other
 - [Shopware 6 Toolkit - Chrome extension](https://chrome.google.com/webstore/detail/meteor-shopware-6-toolkit/onmklnedjfgeaigmkjkldlgpeonpjpnc)
-- [WbmTagManagerEcomm - GTM integration and dataLayer configuration](https://github.com/webmatch/WbmTagManagerEcomm)
-- [Dutch email templates](https://github.com/elgentos/shopware-dutch-email-templates)
-- [BaseLinker Integration by CREHLER](https://github.com/crehler/CrehlerBaseLinker)
-- [Edrone CRM Integration by CREHLER](https://github.com/crehler/CrehlerEdroneCRM)
-- [Shopware Database Synchronizer](https://github.com/jellesiderius/sw-db-sync)
+- [WbmTagManagerEcomm - GTM integration and dataLayer configuration >6.x](https://github.com/webmatch/WbmTagManagerEcomm)
+- [Dutch email templates >6.x](https://github.com/elgentos/shopware-dutch-email-templates)
+- [BaseLinker Integration by CREHLER >6.x](https://github.com/crehler/CrehlerBaseLinker)
+- [Edrone CRM Integration by CREHLER >6.x](https://github.com/crehler/CrehlerEdroneCRM)
+- [Shopware Database Synchronizer 6.x](https://github.com/jellesiderius/sw-db-sync)
 
 ## Resources
 - [You don't need a plugin to customize a Shopware 6 project](https://shyim.me/blog/you-dont-need-a-plugin-to-customize-shopware-6/)
