@@ -21,6 +21,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Adyen](https://github.com/Adyen/adyen-shopware6)
 - [Tpay Integration Plugin by CREHLER](https://github.com/crehler/CrehlerTpay)
 - [Buckaroo Payments](https://github.com/buckaroo-it/Shopware_6)
+- [Lunar Payment for Shopware 6](https://github.com/lunar/payments-plugin-shopware)
 
 ### Theme
 - [digitalmanufaktur - shopware6-manu-theme](https://github.com/digitalmanufaktur/shopware6-manu-theme)
