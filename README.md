@@ -23,7 +23,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6)
 
 ### Theme
-- [digitalmanufaktur - shopware6-manu-theme >6.0](https://github.com/digitalmanufaktur/shopware6-manu-theme)
+- [digitalmanufaktur - shopware6-manu-theme >6.x](https://github.com/digitalmanufaktur/shopware6-manu-theme)
 - [flagbit/shopware6-tailwind-theme >6.x](https://github.com/flagbit/shopware6-tailwind-theme)
 
 ### Frontend
@@ -53,32 +53,31 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots)
 
 ### Administration
-- [Order Advanced Filter for Shopware 6](https://github.com/leduc92/sbuorderadvancedfilter)
+- [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter)
 - [Login as Customer >6.5](https://github.com/Gainto/JblLoginAsCustomer)
 - [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin)
-- [Impersonation Admin User](https://github.com/vienthuong/impersonation)
-- [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
-- [Shopware orders scanner](https://github.com/nikolayk812/shopware-orders-scanner/)
-- [Redirects](https://github.com/runelaenen/sw6-redirects)
-- [Auto Meta Details](https://github.com/DevertNet/DevertAutoMetaDetails)
-- [Total Quantity In Cart Rule](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
-- [Show company name and VAT ID in backend](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
-- [Zero Margin Default CMS Blocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
+- [Impersonation Admin User >6.3](https://github.com/vienthuong/impersonation)
+- [Two Factor Auth 2FA > 6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [Shopware orders scanner >6.3](https://github.com/nikolayk812/shopware-orders-scanner/)
+- [Redirects >6.x](https://github.com/runelaenen/sw6-redirects)
+- [Auto Meta Details >6.1](https://github.com/DevertNet/DevertAutoMetaDetails)
+- [Total Quantity In Cart Rule >6.x](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
+- [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
+- [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
 
 ### Customer Experience
-- [Shopware 6 Blog Plugin](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
-- [Frosh Platform Share Basket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
-- [Two Factor Auth 2FA for Shopware 6](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [Shopware 6 Blog Plugin >6.x](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
+- [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
+- [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
 
 ### Developer Experience
-- [Shopware 6 Example Plugin](https://github.com/shopware/swag-docs-bundle-example)
-- [Official Shopware 6 Migration Assistant](https://github.com/shopware/SwagMigrationAssistant)
-- [Official Shopware 6 Migration Assistant Magento Profile](https://github.com/shopwareLabs/SwagMigrationMagento)
-- [Shopware 6 Additional Dev Tools](https://github.com/mmeester/shopware6-dev-tools)
-- [SMS77.io Shopware 6 Plugin](https://github.com/sms77io/shopware6-plugin)
-- [Theme Preview](https://github.com/hungmac-sw/MacThemePreview)
-- [Yireo's Shopware 6 Extensions](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
-- [CMS Scaffolding](https://github.com/Shape-and-Shift/shopware-cms-generator) (Generate a CMS element or block scaffolding within seconds)
+- [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant)
+- [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento)
+- [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools)
+- [SMS77.io Shopware 6 Plugin >6.x](https://github.com/sms77io/shopware6-plugin)
+- [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview)
+- [Yireo's Shopware 6 Extensions >6.x](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
+- [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) (Generate a CMS element or block scaffolding within seconds)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
