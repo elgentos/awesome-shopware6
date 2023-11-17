@@ -91,6 +91,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Speed Optimizations
 - [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify)
+- [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes)
 - [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor)
 - [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer)
 
