@@ -51,6 +51,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Show sold out information for variants >6.4](https://github.com/MelvinAchterhuis/MelvSoldOutVariants)
 - [Twitter Timeline integration >6.4](https://github.com/flagbit/shopware6-twitter)
 - [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots)
+- [Edit custom fields for Property group options > 6.4](https://github.com/MelvinAchterhuis/MelvPropertyGroupOptionCustomFields)
+
 
 ### Administration
 - [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter)
