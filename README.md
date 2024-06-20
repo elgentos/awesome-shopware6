@@ -21,6 +21,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Adyen >6.3](https://github.com/Adyen/adyen-shopware6)
 - [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay)
 - [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6)
+- [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa)
+- [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
 ### Theme
 - [digitalmanufaktur - shopware6-manu-theme >6.x](https://github.com/digitalmanufaktur/shopware6-manu-theme)
@@ -51,6 +53,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Show sold out information for variants >6.4](https://github.com/MelvinAchterhuis/MelvSoldOutVariants)
 - [Twitter Timeline integration >6.4](https://github.com/flagbit/shopware6-twitter)
 - [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots)
+- [Matomo eCommerce tracking >6.6.x](https://github.com/akshaynikhare/SloxMatomoEcomerce) 
+- [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency)
 
 ### Administration
 - [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter)
