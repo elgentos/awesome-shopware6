@@ -70,7 +70,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
 
 ### Customer Experience
-- [Shopware 6 Blog Plugin >6.x](https://github.com/ChristopherDosin/Shopware-6-Blog-Plugin)
+- [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware)
 - [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
 - [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
 
