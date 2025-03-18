@@ -1,4 +1,4 @@
-# Awesome Shopware 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/elgentos/awesome-shopware6)
+# Awesome Shopware 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sidworks-dev/awesome-shopware6)
 Awesome Shopware 6 plugins, resources, themes, etc
 
 <h1 align="center">
