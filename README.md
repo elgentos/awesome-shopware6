@@ -98,6 +98,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes)
 - [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor)
 - [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer)
+- [Instant Page 6.x](https://github.com/sidworks-dev/sw-plugin-instant-page)
 
 ### DevOps
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
